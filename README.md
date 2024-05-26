@@ -37,4 +37,4 @@ To Run These Project Follow Following Stapes---
 3)Open Terminal & Install node packages
 4) npm install
 5) To run these Project use Following cmd 
-6) npm start dev
+6) npm run dev
